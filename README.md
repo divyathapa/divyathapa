@@ -3,7 +3,7 @@
 ## My coding journey 
 
 
-Back in 2019, I joined General Assembly's :turtle: Front End Web Development course and went from knowing nothing :expressionless: about web developement to knowing something:joy:.
+Back in 2019, I joined General Assembly's :turtle: Front End Web Development course and went from knowing nothing :expressionless: about web development to knowing something:joy:.
 
 I quit :sunglasses: my fulltime job as a Recruiter and started coding full-time :computer:
 
